@@ -19,5 +19,5 @@ The Adaptels algorithm is different from conventional superpixel algorithms in t
 
 <p float="center">
   <img src="https://github.com/achanta/Adaptels/blob/master/bee.png" width="400" />
-  <img src="https://github.com/achanta/Adaptels/blob/master/bee_test.png" width="400" /> 
+  <img src="https://github.com/achanta/Adaptels/blob/master/bee_adaptels.png" width="400" /> 
 </p>
