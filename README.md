@@ -22,4 +22,4 @@ An example segmentation of an image is shown below:
   <img src="https://github.com/achanta/Adaptels/blob/master/bee_adaptels.png" width="400" /> 
 </p>
 
-The Adaptels algorithm is different from conventional superpixel algorithms in that it generates compact segments that adapt to the local image scale. In regions of low information it generates large superpixels and vice versa. It simple to use since it takes just one parameter (which can be set to 60 for sRGB images). It is also computationally very efficient.
+The Adaptels algorithm is different from conventional superpixel algorithms in that it generates compact segments of varying size that adapt to the local image scale. In regions of low information it generates large superpixels and vice versa. It simple to use since it takes just one parameter (which can be set to 60 for sRGB images). It is also computationally very efficient.
