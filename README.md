@@ -15,9 +15,11 @@ This repository offers the code for the Adaptels algorithm with a Python interfa
 }
 ```
 
-The Adaptels algorithm is different from conventional superpixel algorithms in that it generates compact segments that adapt to the local image scale. In regions of low information it generates large superpixels and vice versa. It simple to use since it takes just one parameter (which can be set to 60 for sRGB images). It is also computationally very efficient. An example segmentation of an image is shown below:
+An example segmentation of an image is shown below:
 
 <p float="center">
   <img src="https://github.com/achanta/Adaptels/blob/master/bee.png" width="400" />
   <img src="https://github.com/achanta/Adaptels/blob/master/bee_adaptels.png" width="400" /> 
 </p>
+
+The Adaptels algorithm is different from conventional superpixel algorithms in that it generates compact segments that adapt to the local image scale. In regions of low information it generates large superpixels and vice versa. It simple to use since it takes just one parameter (which can be set to 60 for sRGB images). It is also computationally very efficient.
