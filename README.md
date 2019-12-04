@@ -12,8 +12,8 @@ python AdaptelsDemo.py
 The output of the demo should be as follows:
 
 <p float="center">
-  <img src="https://github.com/achanta/Adaptels/blob/master/bee.png" width="400" />
-  <img src="https://github.com/achanta/Adaptels/blob/master/bee_adaptels.png" width="400" /> 
+  <img src="https://github.com/achanta/Adaptels/python_interface/blob/master/bee.png" width="400" />
+  <img src="https://github.com/achanta/Adaptels/python_interface/blob/master/bee_adaptels.png" width="400" /> 
 </p>
 
 The Adaptels algorithm is different from conventional superpixel algorithms in that it generates compact segments of varying size that adapt to the local image scale. In regions of low information it generates large superpixels and vice versa. It simple to use since it takes just one parameter (which can be set to 60 for sRGB images). It is also computationally very efficient.
